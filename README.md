@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubhs1112
-- 👀 I’m interested in Front End Designing.
-- 🌱 I’m currently learning Web developement
+- 👀 Pursuing Masters in Computer Application.
 - 📫 How to reach me : Email :shubhs08163@gmail.com
 
 <!---
