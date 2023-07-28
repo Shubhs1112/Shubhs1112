@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shubhs1112
-- 👀 Pursuing Masters in Computer Application.
+- Fresher | Web Developer | Immediate Joiner | Seeking Job Opportunities
+- 👀 MCA 
 - 📫 How to reach me : Email :shubhs08163@gmail.com
 
 <!---
